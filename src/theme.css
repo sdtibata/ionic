@@ -1,0 +1,11 @@
+/* src/theme.css */
+:root {
+  --ion-color-primary: #7b2ff7;
+  --ion-color-primary-shade: #6c29d9;
+  --ion-color-primary-tint: #8b45f8;
+}
+
+ion-toolbar {
+  --background: #1a1a2e;
+  --color: white;
+}
